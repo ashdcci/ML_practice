@@ -1,15 +1,9 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Nov  9 16:40:44 2018
+# Data Preprocessing Template
 
-@author: ashishdadhich
-"""
-
+# Importing the libraries
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
-
 
 # Importing the dataset
 dataset = pd.read_csv('Data.csv')
